@@ -34,9 +34,10 @@ Please, follow the instruction in the provided notebook.
 
 ## Predicted segmentation examples:
 
-![descarga](https://user-images.githubusercontent.com/73080100/184480812-103a7193-c33c-4355-8d5b-b666cb8214d1.png)
-![descarga (1)](https://user-images.githubusercontent.com/73080100/184480818-83cb044d-7abf-41c1-a7b9-1289f862a97e.png)
-![descarga (2)](https://user-images.githubusercontent.com/73080100/184480815-3f35843d-2f7f-4eb9-8970-72ae6fd340e6.png)
+![descarga](https://user-images.githubusercontent.com/73080100/184480994-c8e2ecea-9c2e-46af-a38e-85a9ea0b3637.jpg)
+![descarga (1)](https://user-images.githubusercontent.com/73080100/184481024-63fed445-7f8b-43bd-a7fe-ccab3a9b28d2.jpg)
+![descarga (2)](https://user-images.githubusercontent.com/73080100/184481033-f9a585aa-46fc-43a5-b0b1-f969b02866f7.jpg)
+
 
 
 
