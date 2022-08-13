@@ -22,7 +22,7 @@ Binary semantic segmentation using U-Net in TensorFlow 2 / Keras.
 
 The line of research is motivated by the need to accurately segment mitochondria from images. To solve this problem, we will use binary semantic segmentation using U-Net in TensorFlow 2 / Keras.
 
-It is used U-Net model, which is trained on this <a href="https://www.epfl.ch/labs/cvlab/data/data-em/" target="_blank">Electron Microscopy Dataset</a>. It is annotated mitochondria in two sub-volumes. Each sub-volume consists of 165 slices in 1024x768. 
+It is used U-Net model, which is trained on this <a href="https://www.epfl.ch/labs/cvlab/data/data-em/" target="_blank">Electron Microscopy Dataset</a>. Mitochondria is annotated in two sub-volumes. Each sub-volume consists of 165 slices of 1024x768. 
 
 U-Net is a semantic segmentation technique originally proposed for medical imaging segmentation. U-Net was introduced in the paper, <a href="https://arxiv.org/abs/1505.04597" target="_blank">U-Net: Convolutional Networks for Biomedical Image Segmentation</a>. The model architecture is fairly simple: an encoder (for downsampling) and a decoder (for upsampling) with skip connections.
 
