@@ -32,7 +32,12 @@ U-Net is a semantic segmentation technique originally proposed for medical imagi
 Please, follow the instruction in the provided notebook.
 
 
-## Predicted segmentation examples:
+## Results
+
+With just 330 images of 1024x768, it achieves a Mean Intersection over union (IoU) of 0.955639 in the unseen test partition.
+
+
+## Predicted segmentation examples
 
 ![descarga](https://user-images.githubusercontent.com/73080100/184480994-c8e2ecea-9c2e-46af-a38e-85a9ea0b3637.jpg)
 ![descarga (1)](https://user-images.githubusercontent.com/73080100/184481024-63fed445-7f8b-43bd-a7fe-ccab3a9b28d2.jpg)
