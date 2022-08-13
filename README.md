@@ -26,6 +26,10 @@ It is used U-Net model, which is trained on this <a href="https://www.epfl.ch/la
 
 U-Net is a semantic segmentation technique originally proposed for medical imaging segmentation. U-Net was introduced in the paper, <a href="https://arxiv.org/abs/1505.04597" target="_blank">U-Net: Convolutional Networks for Biomedical Image Segmentation</a>. The model architecture is fairly simple: an encoder (for downsampling) and a decoder (for upsampling) with skip connections.
 
+![unet](https://user-images.githubusercontent.com/73080100/184484154-958f202c-8d9e-412f-bc9d-c1ece98b1064.jpg)
+
+The gray arrows indicate the skip connections that concatenate the encoder feature map with the decoder, which helps the backward flow of gradients for improved training.
+
 
 ## Instructions
 
